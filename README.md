@@ -9,7 +9,7 @@
 
 ## 🎬 Demo & 📸 Screenshots
 
-![Iron Man UI Concept Preview](https://via.placeholder.com/800x400?text=Iron+Man+UI+Concept+Preview)
+
 
 *(Project preview and screenshots demonstrating the core user experience)*
 
